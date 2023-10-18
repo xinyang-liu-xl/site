@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyang Liu"
 title_separator          : "-"
 name                     : &name "Xinyang Liu"
-description              : &description "PhD Candidate at University of Illinois at Urbana Champaign"
+description              : &description "Ph.D. Candidate at University of Illinois at Urbana Champaign"
 url                      : https://xinyang-liu-xl.github.io/site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinyang-liu-xl.github.io/site"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinyang Liu"
   avatar           : "Xinyang_profile.jpg"
-  bio              : "PhD candidate at ISE Department, University of Illinois at Urbana Champaign"
+  bio              : "Ph.D. candidate, Industrial Engineering, UIUC ISE"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
