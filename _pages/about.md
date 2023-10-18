@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an assistant professor of [operations, technology and information management](https://business.cornell.edu/faculty-research/areas/operations-technology-and-information-management/) at Cornell University SC Johnson College of Business.
-
+Hello, welcome to my page! I am a PhD candidate in [Industrial Engineering](https://ise.illinois.edu/graduate/degrees-and-programs/phd-industrial-engineering) at University of Illinois at Urbana Champaign, Industrial & Enterprise Systems Department.
 ### Research Interest
  My research focuses on data-driven decision making with uncertainty. I am seeking to provide both methodologies and practical solutions combining tools and concepts from optimization, machine learning, and statistics. From an applications perspective, my research focuses on supply chain management and retail operations. As a part of it, I actively collaborate with industrial partners in e-commerce.  
    
