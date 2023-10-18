@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello, welcome to my page! I am a PhD candidate in [Industrial Engineering](https://ise.illinois.edu/graduate/degrees-and-programs/phd-industrial-engineering) at University of Illinois at Urbana Champaign, Industrial & Enterprise Systems Department.
+Hello, welcome to my page! I am a PhD candidate in [Industrial Engineering](https://ise.illinois.edu/graduate/degrees-and-programs/phd-industrial-engineering) at University of Illinois at Urbana Champaign, Industrial & Enterprise Systems Department with a statistics minor. I'm advised by Professor [Pingfeng Wang](https://ise.illinois.edu/directory/profile/pingfeng). Previously, I received my bachelor's degree in [Industrial Engineering](https://www.ie.tsinghua.edu.cn/eng) from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2018.
+
 ### Research Interest
- My research focuses on data-driven decision making with uncertainty. I am seeking to provide both methodologies and practical solutions combining tools and concepts from optimization, machine learning, and statistics. From an applications perspective, my research focuses on supply chain management and retail operations. As a part of it, I actively collaborate with industrial partners in e-commerce.  
+ My research focuses on design for sustainability and its integration with lifecycle decisions (e.g., maintenance, inventory management, remanufacturing). Leveraging tools and concepts from optimization, predictive modeling, and uncertainty quantification, I’m seeking to provide methodologies and practical solutions to achieve sustainability goals in a closed‑loop supply chain.  
    
 * Learning for Optimization
 * Supply Chain Management 
