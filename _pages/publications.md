@@ -7,7 +7,9 @@ author_profile: true
 {% include base_path %} 
 
 # Journal publications
-1. Distributionally Robust Conditional Quantile Prediction with Fixed Design, **Management Science**, 2021 ([link](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3903)).   
+1. **Xinyang Liu**, Zhuoyuan Zheng, Esra Büyüktahtakın, Zhi Zhou, and Pingfeng Wang. 2021. [Battery Asset Management with Cycle Life Prognosis](https://www.sciencedirect.com/science/article/pii/S0951832021004610/pdfft?casa_token=kVbEPK32CmQAAAAA:oOB7K-u0V-KS5SfY8Rcsqu30APCb2KPiq-d6Pe3CLN8gEPu_HxK_Ho9Xo7EPTYsQiDpr0ybH&md5=8e29f6c6d6fbc45252e8c6541f54234e&pid=1-s2.0-S0951832021004610-main.pdf). *Reliability Engineering & System Safety*.
+2. 
+3. Distributionally Robust Conditional Quantile Prediction with Fixed Design, **Management Science**, 2021 ([link](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3903)).   
 Joint with Ying Cao, Zuo-Jun (Max) Shen
 1. A Practical End-to-End Inventory Management Model with Deep Learning, **Management Science**, 2022 ([link](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4564))    
 Joint with Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen
