@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meng Qi"
+title                    : "Xinyang Liu"
 title_separator          : "-"
-name                     : &name "Meng Qi"
-description              : &description "Assistant Professor of Operations Technology & Information Management, Cornell University SC Johnson College of Business"
-url                      : https://alicemengqi.github.io/site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xinyang Liu"
+description              : &description "PhD Candidate at University of Illinois at Urbana Champaign"
+url                      : https://xinyang-liu-xl.github.io/site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alicemengqi.github.io/site"
+repository               : "xinyang-liu-xl.github.io/site"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meng Qi"
+  name             : "Xinyang Liu"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor of OTIM, Cornell University"
   location         : 
