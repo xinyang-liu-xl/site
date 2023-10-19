@@ -3,7 +3,7 @@ main:
   - title: "Research"
     url: /publications/
     
-  - title: "Teaching & Working & Services"
+  - title: "Experiences"
     url: /teaching/    
   
     
@@ -11,4 +11,4 @@ main:
     url: /markdown/
     
   - title: "CV"
-    url: /files/mengqi_cv.pdf
+    url: /files/XinyangLiu_cv.pdf
